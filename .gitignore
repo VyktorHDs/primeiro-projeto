@@ -1,0 +1,17 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações locais
+.env
+.env.local
+
+# Dependências
+node_modules/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
